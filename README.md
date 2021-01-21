@@ -5,6 +5,4 @@ some text and updates
 
 # DEMO3 
 
-maniaksd 
-
-daniel 6
+asdasdasdasdsad
